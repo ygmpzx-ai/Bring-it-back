@@ -1,0 +1,6 @@
+{
+  "name": "ClipKeep - X Video Downloader",
+  "description": "Download public videos and media from X (Twitter) in multiple MP4 resolutions with fast direct saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
